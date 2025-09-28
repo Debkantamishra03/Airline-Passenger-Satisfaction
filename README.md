@@ -1,6 +1,7 @@
 # Airline Passenger Satisfaction Analysis 
 
 Airline companies want to understand what drives customer satisfaction. Using Kaggle’s dataset of airline passenger feedback, we analyze patterns in satisfaction based on demographics, travel type, and service factors.
+
 ---
 
 ## Project Overview
@@ -64,9 +65,9 @@ Airline companies want to understand what drives customer satisfaction. Using Ka
 
 ## Author
 
-  - Debkanta Mishra
-  - Email:
-  - LinkedIn: https://linkedin.com/in/your-profile
-  - GitHub: https://github.com/yourusername
+   - Debkanta Mishra
+   - Email: debkanta.mishra3@gmail.com
+   - LinkedIn: www.linkedin.com/in/debkanta-mishra
+   - GitHub: https://github.com/Debkantamishra03
 
 ---
